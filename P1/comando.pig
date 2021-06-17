@@ -5,4 +5,3 @@ months = GROUP dts by month;
 --DUMP months;
 result = FOREACH months GENERATE group as month, COUNT(dts) AS count;
 DUMP result;
---STORE F INTO 'File:///home/rafael/Pergunta3';
