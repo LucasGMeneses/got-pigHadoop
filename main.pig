@@ -1,3 +1,2 @@
-eps = LOAD './got_imdb.csv' using PigStorage(',') AS (Season:int,Episode:int,AirDate:chararray,Title:chararray,Rating:double,Counts:int);
-
-DUMP eps;
+eps = LOAD './got_imdb.csv' using PigStorage(',') 
+	AS (season:int,episode:int,airDate:chararray,title:chararray,rating:double,counts:int,desc:chararray);
