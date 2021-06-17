@@ -9,5 +9,5 @@ Perguntas
 * <s>Qual foi a season e episodio que teve maior numero de votos ?</s>
 * <s>Qual foi a season  que teve menos episodios ?</s>
 * Qual season teve a melhor media ?
-* Quais foram os melhores meses da serie ? 
+* Quais foram os melhores meses da serie em votos ? 
 * <s>Qual é a quantidade de episodio a serie tem no total ?</s>
