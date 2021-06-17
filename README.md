@@ -3,6 +3,9 @@
 DATA-SET
 https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
 
+RELATÓRIO
+https://1drv.ms/w/s!AoxCxb6Jkm_IhjkCidwohKaIVRHM?e=VygJZj
+
 Perguntas
 * Qual foi o mês que mais teve episodio ?
 * <s>Qual foi o episodio que as pessoas mais gostaram ?</s>
