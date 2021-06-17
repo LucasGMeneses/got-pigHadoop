@@ -1,5 +1,8 @@
 # gow-pigHadoop
 
+# DATA-SET
+https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
+
 Perguntas
 * Qual foi o mês que mais teve episodio ?
 * <s>Qual foi o episodio que as pessoas mais gostaram ?</s>
