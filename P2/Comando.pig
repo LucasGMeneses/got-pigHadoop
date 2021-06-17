@@ -3,4 +3,4 @@ B = FOREACH A GENERATE $0, $1, $4;
 D = GROUP B ALL;
 E = FOREACH D GENERATE MAX(B.Rating) as rating;
 F = FILTER B BY Rating == (float)E.rating;
-STORE F INTO 'file:///home/rafael/Download/P2'; --EDITAR ESSE CAMPO PARA O SEU SISTEMA
+STORE F INTO 'file:///home/rafael/P2'; --EDITAR ESSE CAMPO PARA O SEU SISTEMA
