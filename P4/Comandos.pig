@@ -3,4 +3,4 @@ B = FOREACH A GENERATE $0, $1;
 C = GROUP B BY season;
 D = FOREACH C GENERATE group as season, COUNT(B.episode) as episode;
 F = ORDER D BY episode ASC;
-STORE F INTO 'file:///home/rafael/Downloads/P4'; --EDITAR ESSE CAMPO PARA O SEU SISTEMA
+STORE F INTO 'file:///home/rafael/P4'; --EDITAR ESSE CAMPO PARA O SEU SISTEMA
