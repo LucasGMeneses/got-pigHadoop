@@ -7,3 +7,4 @@ Perguntas
 * Qual foi a season  que teve menos episodios ?
 * Qual season teve a melhor media ?
 * Quais foram os melhores meses da serie ? 
+* Qual é a quantidade de episodio a serie tem no total ?
