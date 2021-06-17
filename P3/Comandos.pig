@@ -3,4 +3,4 @@ A = LOAD '/user/game.csv' USING PigStorage(',') AS (season:int, episode:int, dat
 B = FOREACH A GENERATE $0, $1, $5;
 C = GROUP B ALL;
 D = FOREACH C GENERATE COUNT(B.episode);
-STORE C INTO 'File:///home/rafael/Pergunta7';
+STORE D INTO 'File:///home/rafael/Pergunta7'; --MUDAR PARA O SEU SISTEMA
