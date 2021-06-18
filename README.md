@@ -1,5 +1,7 @@
 <h1 align="center">Analise de dados</h1>
 
+**Alunos: Rafael Vinicius, Lucas Meneses e Tiago Tamaki**
+
 O seguinte repositorio tem como objetivo analisar e resolver problemas criados para um dataset. Para isso, configuramos o ambiente distribuído apache hadoop e utilizando na solução o apache pig, ferramenta que permite analisar dados por meio do hadoop.
 
 DATA-SET
