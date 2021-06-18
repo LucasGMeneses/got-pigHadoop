@@ -16,3 +16,5 @@ Problemas:
 * Qual season teve a melhor media ?
 * Quais foram os melhores meses da serie em votos ? 
 
+
+Enviar o relatorio mais os codigos em um zip 
