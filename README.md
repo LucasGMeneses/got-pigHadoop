@@ -10,10 +10,8 @@ O seguinte repositorio tem como objetivo analisar e resolver problemas criados p
     <a href="https://github.com/LucasGMeneses/got-pigHadoop/blob/main/Relat%C3%B3rio%20sistemas%20%20distribuidos.pdf" target="blank">Relatório</a>
 </p>
 
-DATA-SET
-https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset
 
-RELATÓRIO
+RELATÓRIO editavél
 https://1drv.ms/w/s!AoxCxb6Jkm_IhjkCidwohKaIVRHM?e=VygJZj
 
 ## Problemas:
