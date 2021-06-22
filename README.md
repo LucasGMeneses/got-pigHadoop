@@ -7,7 +7,7 @@ O seguinte repositorio tem como objetivo analisar e resolver problemas criados p
 <p align="center">
     <a href="https://www.kaggle.com/abhijithchandradas/game-of-thrones-imdb-dataset" target="blank">DataSet</a>
     ·
-    <a href="https://github.com/LucasGMeneses/got-pigHadoop/blob/main/Relat%C3%B3rio%20sistemas%20%20distribuidos.pdf" target="blank">Relatório</a>
+    <a href="https://github.com/LucasGMeneses/got-pigHadoop/blob/main/Relat%C3%B3rio%20de%20sistema%20distribuidos.pdf" target="blank">Relatório</a>
 </p>
 
 
@@ -27,8 +27,6 @@ https://1drv.ms/w/s!AoxCxb6Jkm_IhjkCidwohKaIVRHM?e=VygJZj
 
 * **Quais foram os melhores meses da serie em votos ?** 
 
-
-Enviar o relatorio mais os codigos em um zip 
 <hr>
 <p align="center">
 Developed with ❤️ in Brazil Campo Grande MS 
